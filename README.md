@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhan1740&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhan1740" /> </p>
 
-- 🔭 I’m currently working on [reinvest.sa](https://reinvest.sa)
+- 🔭 I’m currently working on [barberita.com](https://reinvest.com)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **any web based project**
 
